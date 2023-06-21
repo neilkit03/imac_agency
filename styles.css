@@ -27,6 +27,8 @@
 .info1 {
   display: flex;
   justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 60px;
 }
 
 ol {
@@ -38,6 +40,7 @@ ol {
   height: 800px;
   width: 670px;
   display: flex;
+  padding-bottom: 60px;
 }
 
 .license_grant {
