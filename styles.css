@@ -24,6 +24,11 @@
   font-weight: bold;
 }
 
+.info1 {
+  display: flex;
+  justify-content: center;
+}
+
 ol {
   padding: none;
   text-decoration: none;
