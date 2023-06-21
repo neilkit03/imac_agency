@@ -1,0 +1,58 @@
+.logo {
+  height: 290px;
+  width: 210px;
+  padding-left: 5px;
+}
+.logo_agency {
+  display: flex;
+}
+
+.imac {
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+
+  font-family: "Spectral SC", serif;
+  font-weight: 1000px;
+  font-size: 50px;
+}
+
+.navbar {
+  background-color: darksalmon;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-weight: bold;
+}
+
+ol {
+  padding: none;
+  text-decoration: none;
+}
+
+.license {
+  height: 800px;
+  width: 670px;
+  display: flex;
+}
+
+.license_grant {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-family: "Spectral SC", serif;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  background-color: darksalmon;
+  display: flex;
+  justify-content: center;
+  height: 130px;
+}
+
+.footy {
+  margin-top: 30px;
+}
